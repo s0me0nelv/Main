@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="padding">16dp</dimen>
+    <dimen name="size16">16sp</dimen>
+    <dimen name="marginLeft8">8dp</dimen>
+    <dimen name="marginBottom8">8dp</dimen>
+    <dimen name="margin8">8dp</dimen>
+    <dimen name="marginTop10">10dp</dimen>
+    <dimen name="marginBottom30">30dp</dimen>
+    <dimen name="marginTop8">8dp</dimen>
+    <dimen name="height209">150dp</dimen>
+    <dimen name="paddingLeft16">16dp</dimen>
+    <dimen name="paddingRight16">16dp</dimen>
+    <dimen name="size24">24sp</dimen>
+    <dimen name="padding8">8dp</dimen>
+    <dimen name="paddingRight8">8dp</dimen>
+</resources>
