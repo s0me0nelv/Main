@@ -1,0 +1,87 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#795548</item>
+        <item name="colorPrimaryDark">#5d4037</item>
+        <item name="colorAccent">#a1887f</item>
+    </style>
+
+    <style name="image">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/height209</item>
+        <item name="android:scaleType">centerCrop</item>
+        <item name="android:layout_marginBottom">@dimen/marginBottom8</item>
+    </style>
+
+    <style name="text">
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textSize">@dimen/size16</item>
+        <item name="android:layout_marginLeft">@dimen/marginLeft8</item>
+        <item name="android:layout_marginBottom">@dimen/marginBottom8</item>
+    </style>
+
+    <style name="numberOfQuestion">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@color/color_of_number</item>
+        <item name="android:paddingLeft">@dimen/paddingLeft16</item>
+        <item name="android:paddingRight">@dimen/paddingRight16</item>
+        <item name="android:textSize">@dimen/size24</item>
+    </style>
+
+    <style name="textOfQuestion">
+        <item name="android:textSize">@dimen/size16</item>
+        <item name="android:background">@color/color_of_text</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/padding8</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="radioGroup">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">@dimen/padding8</item>
+    </style>
+
+    <style name="radioButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">@dimen/paddingLeft16</item>
+        <item name="android:paddingRight">@dimen/paddingRight8</item>
+    </style>
+
+    <style name="editText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:inputType">textCapWords</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textSize">@dimen/size16</item>
+        <item name="android:layout_margin">@dimen/margin8</item>
+    </style>
+
+    <style name="checkBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/marginLeft8</item>
+        <item name="android:paddingLeft">@dimen/paddingLeft16</item>
+    </style>
+
+    <style name="button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@color/color_of_button</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_marginTop">@dimen/marginTop10</item>
+        <item name="android:layout_marginBottom">@dimen/marginBottom30</item>
+    </style>
+
+</resources>
