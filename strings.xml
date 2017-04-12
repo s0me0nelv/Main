@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Balanced Relationships Quiz</string>
+    <string name="about">Find out if your relationships are balanced!</string>
+    <string name="number_1">1</string>
+    <string name="text_1">You have your own space in relationships.</string>
+    <string name="q1a1">Strongly disagree</string>
+    <string name="q1a2">Disagree</string>
+    <string name="q1a3">Agree</string>
+    <string name="q1a4">Strongly agree</string>
+    <string name="number_2">2</string>
+    <string name="text_2">Running a household is equally divided?</string>
+    <string name="q2a1">Strongly disagree</string>
+    <string name="q2a2">Disagree</string>
+    <string name="q2a3">Agree</string>
+    <string name="q2a4">Strongly agree</string>
+    <string name="number_3">3</string>
+    <string name="text_3">Nobody dominates in big decisions.</string>
+    <string name="q3a1">Strongly disagree</string>
+    <string name="q3a2">Disagree</string>
+    <string name="q3a3">Agree</string>
+    <string name="q3a4">Strongly agree</string>
+    <string name="number_4">4</string>
+    <string name="text_4">My partner is supportive of things that I do.</string>
+    <string name="q4a1">Strongly disagree</string>
+    <string name="q4a2">Disagree</string>
+    <string name="q4a3">Agree</string>
+    <string name="q4a4">Strongly agree</string>
+    <string name="number_5">5</string>
+    <string name="text_5">My partner texts me or calls me all the time.</string>
+    <string name="q5a1">Strongly disagree</string>
+    <string name="q5a2">Disagree</string>
+    <string name="q5a3">Agree</string>
+    <string name="q5a4">Strongly agree</string>
+    <string name="checkScore">Check your score</string>
+    <string name="number_6">6</string>
+    <string name="text_6">My partner says I\'m too involved in different activities.</string>
+    <string name="q6a1">Strongly disagree</string>
+    <string name="q6a2">Disagree</string>
+    <string name="q6a3">Agree</string>
+    <string name="q6a4">Strongly agree</string>
+    <string name="number_7">7</string>
+    <string name="text_7">What do you value most in your partner?</string>
+    <string name="q7a1">Trust</string>
+    <string name="q7a2">Honesty</string>
+    <string name="q7a3">Empathy</string>
+    <string name="q7a4">Compromise</string>
+    <string name="number_8">8</string>
+    <string name="text_8">What we should all say from time to time to our beloved ones? (two words)</string>
+    <string name="q8a1">type your answer here</string>
+
+
+</resources>
